@@ -1,9 +1,10 @@
 body{
-    background-color: azure
+    background-color: azure;
+    font-family:'Times New Roman', Times, serif;
 }
 
 #page-header{
-    font-style: Georgia;
+    font-family: Georgia;
     color: #004400;
     text-align: center;
 }
