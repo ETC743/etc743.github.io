@@ -1,4 +1,11 @@
 body{
     background-color: orange;
     font-family:'Times New Roman', Times, serif;
+    color: #004400;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Georgia;
 }
